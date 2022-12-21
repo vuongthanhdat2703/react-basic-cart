@@ -1,0 +1,34 @@
+.product-item {
+    margin-bottom: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.product-item h5 {
+    margin: 0;
+    margin-bottom: 12px;
+    font-size: 16px;
+}
+
+.product-item .desc {
+    padding: 8px;
+}
+
+.product-item p {
+    color: #f30606;
+    font-weight: 600;
+    margin: 0;
+    margin-bottom: 12px;
+}
+
+.product-item button {
+    padding: 8px 20px;
+    border: 1px solid #14a7fa;
+    background-color: transparent;
+    transition: 0.2s;
+    color: #14a7fa;
+}
+
+.product-item button:hover {
+    background-color: #14a7fa;
+    color: #fff;
+}
